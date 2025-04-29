@@ -46,13 +46,19 @@ The classifier is built using a Convolutional Neural Network (CNN) in TensorFlow
 
 The notebook shows training and validation accuracy/loss, and provides visual predictions on test images.
 ![image](https://github.com/user-attachments/assets/12106df2-ea78-4c34-a868-9c9cfed71361)
+
 Training and Validation accuracy 
+
 Final Training Accuracy - 92.85%
+
 Final Validation Accuracy - 90.77%
 
 ![image](https://github.com/user-attachments/assets/69250638-8e58-4d06-9d46-1c618857a77d)
+
 Training and Validation loss
+
 Final Training Loss - 18.78%
+
 Final Validation Accuracy - 26.97%
 
 ## 📸 Sample Predictions
