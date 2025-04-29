@@ -81,7 +81,8 @@ dataset/
 
 You can download the dataset from the original Kaggle notebook:
 
-🔗 [Waste Classification with CNN by beyzanks](https://www.kaggle.com/code/beyzanks/waste-classification-with-cnn)
+🔗 [Waste Classification Dataset by techsash](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+
 
 
 ## 🔧 Future Improvements
